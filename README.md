@@ -1,2 +1,3 @@
 # Tic_Tac_game
-
+# Tic Tac Toe game
+Two players will play the tic tac toe game. First, we ask the user to choose position of 'X' and '0' between [0 to 8]. Initially, we print the empty board and then we’ll take the user input and we’ll check for the winning condition and if the whole board gets filled and no one wins, we’ll declare the result as “Tie”....
